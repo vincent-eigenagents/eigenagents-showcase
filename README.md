@@ -9,8 +9,7 @@ Each project here is a small, self-contained agent: a real problem, a multi-agen
 | Agent | What it does |
 |---|---|
 | [novelty-asymptote](./novelty-asymptote) | Evaluates trends, technologies, and cultural or financial themes against the *Novelty Asymptote* framework — an eight-stage multi-agent pipeline returning a schema-constrained verdict on where a trend sits in its lifecycle, how much novelty it has left, and what to do about it. |
-
-*(More agents being added.)*
+| [content-credibility](./content-credibility) | Scores social-media content, ads, and viral claims for credibility across 11 weighted dimensions — non-partisan and non-commercial — returning per-axis scores, red flags, and a verdict tier from `CREDIBLE` to `EXTREME FAILURE`. |
 
 ## Shared design principles
 
