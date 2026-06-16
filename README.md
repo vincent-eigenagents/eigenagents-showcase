@@ -1,4 +1,5 @@
 # EigenAgents — Agentic Application Showcase
+#### _The characteristic agents of a problem space._
 
 Reference implementations of agentic AI applications built by [EigenAgents](https://eigenagents.ai).
 
